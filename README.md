@@ -8,7 +8,7 @@ This project renders multiple animated cube instances using modern OpenGL. Geome
 
 The application was developed using a course-provided framework for window creation, event handling, and OpenGL initialization. My work focuses on implementing the rendering logic, animation, shader integration, and user interaction.
 
-## My Contributions
+## Implemented Features
 
 My implementation includes:
 
